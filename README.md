@@ -1,6 +1,6 @@
 # Auto Pascal Files - A VScode extension
 
-This is the README for your extension **"auto-pascal-files"**. This extension automatically renames newly created files to PascalCase, improving file organization and readability.
+A VScode extension that automatically renames your files into pascal case. WHY? idk, convenience?
 
 ## Features
 
